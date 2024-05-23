@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>This is my test page with links!</title>
+</head>
+<body>
+  <h1>Welcome to my test page</h1>
+  <p>This is some content on my test page. Check out some cool websites below: </p>
+  <ul>
+    <li><a href="https://www.google.com/finance/">Google</a></li>
+    <li><a href="https://www.bbc.com">BBC</a></li>
+  </ul>
+</body>
+</html>
